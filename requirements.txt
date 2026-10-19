@@ -1,0 +1,5 @@
+transformers==4.57.2
+datasets==4.0.0
+evaluate
+accelerate
+scikit-learn
